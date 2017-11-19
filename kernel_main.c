@@ -10,7 +10,6 @@
 #include <user.h>
 #include <vgamodes.h>
 
-
 // This is a dummy __main.  For some reason, gcc puts in a call to 
 // __main from main, so we just include a dummy.
  
